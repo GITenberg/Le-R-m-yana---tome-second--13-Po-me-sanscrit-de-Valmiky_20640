@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7984
     wikipedia: http://en.wikipedia.org/wiki/Valmiki
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20640#Le-R-m-yana---tome-second--13-Po-me-sanscrit-de-Valmiky
 gutenberg_bookshelf:
 - FR Littérature
 - FR Poésie
