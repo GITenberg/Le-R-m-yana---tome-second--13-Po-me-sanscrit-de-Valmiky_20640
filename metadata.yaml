@@ -1,0 +1,38 @@
+_repo: Le-R-m-yana---tome-second--13-Po-me-sanscrit-de-Valmiky_20640
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Fauche, Hippolyte
+    birthdate: 1797
+    deathdate: 1869
+    gutenberg_agent_id: '9323'
+    url: http://www.gutenberg.org/2009/agents/9323
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Valmiki
+    alias: Válmíki
+    gutenberg_agent_id: '7984'
+    url: http://www.gutenberg.org/2009/agents/7984
+    wikipedia: http://en.wikipedia.org/wiki/Valmiki
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Poésie
+gutenberg_issued: '2007-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20640'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rama (Hindu deity) -- Fiction'
+- !lcc 'PK'
+- !lcsh 'Epic poetry, Sanskrit -- Translations into French'
+- !lcsh 'Folklore -- India'
+title: "Le Râmâyana - tome second\r\nPoème sanscrit de Valmiky"
+url: http://www.gutenberg.org/ebooks/20640
